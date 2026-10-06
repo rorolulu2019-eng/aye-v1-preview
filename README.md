@@ -1,6 +1,6 @@
 # AYÉ — prévisualisation publique actualisée
 
-Ce dossier prépare une **démo statique distincte** du site GitHub Pages existant. `index.html` est autonome : JavaScript et CSS sont intégrés dans le fichier pour pouvoir l’envoyer facilement depuis le navigateur GitHub.
+Ce dossier prépare une **démo statique distincte** du site GitHub Pages existant. `index.html` est autonome : JavaScript et CSS sont intégrés dans le fichier pour pouvoir l’envoyer facilement depuis le navigateur GitHub. L’interface utilise des polices système modernes, sans appel à un CDN, une palette multicolore sobre et des mises en page adaptées aux petits et grands écrans. Le parcours est organisé en trois étapes simples — repère solaire, quiz, petit pas — et la navigation de l’espace est regroupée par usage.
 
 ## Avant publication
 
@@ -8,6 +8,7 @@ Ce dossier prépare une **démo statique distincte** du site GitHub Pages exista
 - Aucun dépôt n’a été créé ni publié par cette préparation. Le nouveau lien n’existera qu’après les étapes ci-dessous.
 - La démo s’exécute dans le navigateur, en mémoire de l’onglet. Elle ne crée pas de compte et n’envoie pas les réponses, dates de naissance ou notes à une API.
 - Aucun paiement SasPay ni message WhatsApp n’est envoyé. Les clés et le PDF culturel source ne sont pas inclus.
+- Les résultats « chemin de vie » et « mission de vie » ne sont pas affichés ; l’aperçu personnel se limite au signe solaire tropical indicatif.
 - Le mapping Vodún/Ange-Archange reste affiché comme un rapprochement symbolique, distinct d’une attribution traditionnelle personnelle et d’une consultation du Fa.
 
 ## Publication via l’interface web, sans toucher à l’ancienne page
